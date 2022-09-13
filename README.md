@@ -11,21 +11,6 @@
   * **Learning about Equity Markets and High Performance Computing** 👨‍🍳🍕
   * **Playing Cricket**
 
-```java
-public static void main(String args[]){
-  Scanner sc = new Scanner(System.in);
-  
-  String jobDescription = sc.nextLine();
-
-  String interest_1 = "High Frequency Trading Systems";
-  String interest_2 = "Software Development";
-
-  if(jobDescription.equals(interest_1) || jobDescription.equals(interest_2)){
-    System.out.println("Please contact me at Linkeidn @ ashutosh-aswani-697478201 --> Link below. :) );
-  }
-}
-```
-
 * ### I'm passionate about **Web Dev**, 😊 particularly about the **MERN stack**.
 * ### I have sound knowledge of **ReactJS** and **NodeJS**.
 
