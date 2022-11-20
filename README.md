@@ -17,4 +17,4 @@
 * ### How to reach me:
   * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-aswani-697478201/)
 # See ya!
-![seeya](https://user-images.githubusercontent.com/76112446/139240376-e4357c95-165e-4f32-bd6d-9e53cf5c13f1.gif)
+![seeya](https://user-images.githubusercontent.com/76112446/139240376-e4357c95-165e-4f32-bd6d-9e53cf5c13f1.gif) 
