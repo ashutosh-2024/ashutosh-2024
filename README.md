@@ -11,6 +11,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh-2024&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- github-compacet, tokyo-night -->
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,java,mysql,py,django,selenium,linux,aws,heroku)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,django,git,github,mysql,selenium,linux,aws,heroku,gitlab)](https://skillicons.dev)
   
 </div>
