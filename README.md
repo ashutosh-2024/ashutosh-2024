@@ -1,20 +1,16 @@
-# Hello I'm Ashutosh. :pray::wave: &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fashutosh-2024&countColor=%23d9e3f0)
+<div align="center">
+  
+| About                                                                                                                                          | Top Languages                                                                                                     |
+|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| • 👋 Hi, I’m Ashutosh Aswani.<br>• 👀 I’m interested in Django Development, Information Retrieval Techniques and a lot more.<br>• 🌱 I’m currently learning.<br>• 💞️ I’m looking to collaborate on various topics like Django Web Apps, ReST API Dev or DSA.<br> | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-2024&theme=github_dark&show_icons=true) |
 
-[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh-2024&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+|     Stats                                                                                                         |     Streak                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutosh-2024&theme=github_dark&show_icons=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=ashutosh-2024&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-2024&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
-* ### I'm a CSE pre-final student @ IIIT Vadodara.
-* ### Three things that I love to do are:
-  * **Programming**, can code in **C++, Java, Python and Javascript**. 😇
-  * **Learning about Equity Markets and High Performance Computing** 👨‍🍳🍕
-  * **Playing Cricket**
-
-* ### I'm passionate about **Web Dev**, 😊 particularly about the **MERN stack**.
-* ### I have sound knowledge of **ReactJS** and **NodeJS**.
-
-* ### How to reach me:
-  * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-aswani-697478201/)
-# See ya!
-![seeya](https://user-images.githubusercontent.com/76112446/139240376-e4357c95-165e-4f32-bd6d-9e53cf5c13f1.gif) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh-2024&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- github-compacet, tokyo-night -->
+  
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,java,mysql,py,django,selenium,linux,aws,heroku)](https://skillicons.dev)
+  
+</div>
