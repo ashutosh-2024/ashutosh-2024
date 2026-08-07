@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ashutosh Aswani 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YOUR-GITHUB-HANDLE"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ashutoshaswani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ashutosh-2024"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ashutosh_0207/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:ashutoshaswani2015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ## 🚀 Featured Project
 
-**[RiskMetricsPy](https://github.com/YOUR-GITHUB-HANDLE/RiskMetricsPy)** — Python portfolio risk analytics package
+**[RiskMetricsPy](https://github.com/ashutosh-2024/risk-metrics)** — Python portfolio risk analytics package
 - 20+ quantitative risk metrics: CAGR, Sharpe, Sortino, Calmar, Omega, VaR, max drawdown, beta, skewness, and more.
 - Modules for return attribution, concentration analysis, factor exposure, and liquidity bucketing.
 
@@ -50,10 +50,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HANDLE&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-HANDLE&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-2024&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-2024&layout=compact" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-HANDLE" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-2024" />
 </p>
